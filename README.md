@@ -9,3 +9,6 @@ Dies ist eine Frage der mittleren Stufe der Array-Codierung, sie ist weder zu ei
 
 4. Wie finde ich wiederholte Zahlen in einem Array, wenn es mehrere Duplikate enthält?
 Dies ist eigentlich die Folgefrage von Problem 2, wie man eine doppelte Zahl in einem Ganzzahl-Array findet. In diesem Fall enthält ein Array nur ein Duplikat. Was aber, wenn es mehrere Duplikate enthält? Angenommen, ein Array enthält n Zahlen im Bereich von 0 bis n-1 und enthält 5 Duplikate. Wie finden Sie das?
+
+5. Write a program to remove duplicates from array in Java?
+You have given an array which contains duplicates, could be one or more. You need to write a program to remove all duplicates from array in Java. For example if given array is {1, 2, 1, 2, 3, 4, 5} then your program should return an array which contains just {1, 2, 3, 4, 5}. This array question is also comes at intermediate category because there is no way to delete an element from an array. If substituting with another value is not an option then you need to create another array to mimic deletion.
