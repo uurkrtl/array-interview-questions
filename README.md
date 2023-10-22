@@ -12,3 +12,5 @@ Dies ist eigentlich die Folgefrage von Problem 2, wie man eine doppelte Zahl in 
 
 5. Write a program to remove duplicates from array in Java?
 You have given an array which contains duplicates, could be one or more. You need to write a program to remove all duplicates from array in Java. For example if given array is {1, 2, 1, 2, 3, 4, 5} then your program should return an array which contains just {1, 2, 3, 4, 5}. This array question is also comes at intermediate category because there is no way to delete an element from an array. If substituting with another value is not an option then you need to create another array to mimic deletion.
+
+6. CountElementFrequency: Schreiben Sie eine Java-Funktion, die eine Liste von Ganzzahlen akzeptiert und die Häufigkeit jedes einzelnen Elements in der Liste zählt. Die Funktion sollte eine Map zurückgeben, in der die Schlüssel die eindeutigen Elemente aus der Liste sind und die Werte die Häufigkeit jedes Elements repräsentieren. Beispiel - Eingang: Arrays.asList(1, 2, 3, 2, 1, 3, 3, 4, 5, 4) - Erwartete Ausgabe: {1=2, 2=2, 3=3, 4=2, 5=1}
